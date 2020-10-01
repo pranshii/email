@@ -1,4 +1,4 @@
-# Fuel Email Package.
+# Fuel Email Package - An amazing Project
 
 A full fledged email class for Fuel. Send mails using php's mail function, sendmail or SMTP.
 
